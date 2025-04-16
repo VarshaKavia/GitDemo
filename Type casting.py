@@ -1,0 +1,11 @@
+a=2
+b=4.25
+print(a+b)
+b=int(4.25)
+print(a+b)
+a=float(2)
+print(a+b)
+a=str(2)
+b=str(4.25)
+print(type(a))
+print(a+b)
