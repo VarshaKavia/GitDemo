@@ -28,3 +28,6 @@ print(result_str)
 #Write a pgm to find the occurance of a $
 str1= "Hello I am $ sign and I am occuring $ 2 time"
 print(str1.count("o")) 
+str2= "Hello I am learning git"
+print(str2) 
+print(str2) 
